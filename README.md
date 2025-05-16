@@ -1,6 +1,6 @@
 ## Olá! Sou a Eduarda 🍓
 
-- 📕 Cursando Desenvolvimento de Sistemas
+- 📕 Cursando Análise e Desenvolvimento de Sistemas (IFSP)
 - 🏮 Pronomes: Ela/dela
 
 <div>
