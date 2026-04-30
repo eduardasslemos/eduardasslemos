@@ -1,7 +1,6 @@
 ## Olá! Sou a Eduarda 🍓
 
 - 📕 Cursando Análise e Desenvolvimento de Sistemas (IFSP)
-- 🏮 Pronomes: Ela/dela
 
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduardasslemos&show_icons=true&theme=dark&title_color=b81414&border_color=ff0000&text_color=696969&icon_color=ff0000">
