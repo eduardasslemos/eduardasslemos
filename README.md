@@ -7,7 +7,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardasslemos&hide_progress=false&theme=dark&layout=donut&title_color=b81414&border_color=ff0000&text_color=696969&icon_color=ff0000">
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
   <img align="center" alt="duda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="duda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="duda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
