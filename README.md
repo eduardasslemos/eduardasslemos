@@ -6,7 +6,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduardasslemos&show_icons=true&theme=dark&title_color=b81414&border_color=ff0000&text_color=696969&icon_color=ff0000">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardasslemos&hide_progress=false&theme=dark&layout=donut&title_color=b81414&border_color=ff0000&text_color=696969&icon_color=ff0000">
 </div>
-
+<br>
 <div>
   <img align="left" alt="duda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="duda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -15,6 +15,7 @@
   <img align="left" alt="duda-PHP" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="right" alt="duda-gif" height="200" width="200" src="https://i.picasion.com/pic92/a30b655f535984de1c6ee1a69a64039d.gif">
 </div>
+<br>
 
 ##
 
